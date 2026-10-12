@@ -27,12 +27,12 @@ The project uses a collection of 10 arXiv research papers and evaluates differen
 
  Parameters
 
- Research papers - 10 
- Evaluation questions - 30 
- Chunk sizes - 250, 500, 750, 1000, 1500 tokens 
- Chunk overlaps - 0, 50, 100, 200 tokens 
- Top-K - 1, 3, 5, 10 
- Total configurations - 80 
+- Research papers - 10 
+- Evaluation questions - 30 
+- Chunk sizes - 250, 500, 750, 1000, 1500 tokens 
+- Chunk overlaps - 0, 50, 100, 200 tokens 
+- Top-K - 1, 3, 5, 10 
+- Total configurations - 80 
 
 ## Technologies Used
 
