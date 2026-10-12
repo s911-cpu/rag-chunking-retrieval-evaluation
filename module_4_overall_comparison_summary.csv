@@ -1,0 +1,3 @@
+﻿method,mean_answer_quality,scored_answers,hallucination_flag_rate,hallucination_scored
+LLM only (no-RAG),0.6,30,0.0,30
+RAG + LLM,1.5326359832635983,2390,0.0037656903765690376,2390
